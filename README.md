@@ -21,13 +21,18 @@ Aplicativo mobile para avaliação física de alunos com geração de relatório
 |--------------------|-------------------|------------------|
 | ![](screenshots/1.jpeg) | ![](screenshots/2.jpeg) | ![](screenshots/3.jpeg) |
 
-| Circunferências 1 | Circunferências 2 | Resultado |
+| Resultado | Resultado 2 | Resultado com botão de gerar PDF |
 |------------------|-------------------|-----------|
 | ![](screenshots/4.jpeg) | ![](screenshots/5.jpeg) | ![](screenshots/6.jpeg) |
 
-| Geração do PDF | Compartilhamento | PDF Final |
+| Compartilhamento | Compartilhamento | PDF Final |
 |----------------|------------------|-----------|
-| ![](screenshots/7.jpeg) | ![](screenshots/8.jpeg) | ![](screenshots/9.jpeg) |
+| ![](screenshots/7.jpeg) | ![](screenshots/8.jpeg) | ![](screenshots/12.jpeg) |
+
+| Circuferencias | Circuferencias 2 | PDF com aba de Circuferencias |
+|------------------|-------------------|-----------|
+| ![](screenshots/4.jpeg) | ![](screenshots/5.jpeg) | ![](screenshots/11.jpeg) |
+
 
 ## 🚀 Tecnologias
 
