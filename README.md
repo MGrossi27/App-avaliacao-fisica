@@ -1,4 +1,4 @@
-# 🏋️‍♂️ App de Avaliação Física - Personal Trainer
+# 🏋🏻‍♂️ App de Avaliação Física - Personal Trainer
 
 Aplicativo mobile desenvolvido com React Native (Expo) para profissionais de educação física realizarem avaliações físicas completas, com geração de relatório PDF profissional, visual moderno em modo escuro e funcionamento totalmente offline.
 
@@ -13,7 +13,7 @@ O app permite realizar uma avaliação completa com:
 - Cálculo automático de TMB, NDC, % gordura, massa magra e gorda
 - Geração de relatório em PDF com layout escuro e identidade visual do profissional
 
-Tudo isso pensado parsa funcionar **sem internet**, facilitando o uso em academias, estúdios ou atendimentos externos.
+Tudo isso pensado para funcionar **sem internet**, facilitando o uso em academias, estúdios ou atendimentos externos.
 
 ---
 
@@ -63,7 +63,7 @@ Tudo isso pensado parsa funcionar **sem internet**, facilitando o uso em academi
 
 - Nome, idade, altura, peso, sexo e nível de atividade
 - Escolha do método de dobras
-- Escolha de avaliar ou não circunferências
+- Escolha de avaliar ou não circunferências 
 
 ### ✂️ Dobras Cutâneas
 
@@ -90,6 +90,11 @@ Tudo isso pensado parsa funcionar **sem internet**, facilitando o uso em academi
 
 ## 🖼️ Design
 
+- ⚫ Background: `#121212`
+- 🟡 Destaques: `#F0B90B`
+- 🔵  Títulos: `#00BFFF`
+- 🔴 Erros ou alertas: `#FF4C4C`
+- ⚪ Texto principal: `#FFFFFF`
 - Interface escura e limpa
 - Destaque visual para os resultados
 - Fontes legíveis e espaçamento confortável
