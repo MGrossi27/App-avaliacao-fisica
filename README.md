@@ -19,21 +19,15 @@ Aplicativo mobile para avaliação física de alunos com geração de relatório
 
 | Entrevista Inicial | Escolha de método | Dobras Cutâneas |
 |--------------------|-------------------|------------------|
-| ![](screenshots/1.jpeg) | ![](screenshots/2.jpeg) | ![](screenshots/3.jpeg) |
+| ![](docs/screenshots/1.jpeg) | ![](docs/screenshots/2.jpeg) | ![](docs/screenshots/3.jpeg) |
 
-| Circuferencias | Circuferencias 2 |
+| Circunferências 1 | Circunferências 2 | Resultado |
 |------------------|-------------------|-----------|
-| ![](screenshots/4.jpeg) | ![](screenshots/5.jpeg) |
+| ![](docs/screenshots/4.jpeg) | ![](docs/screenshots/5.jpeg) | ![](docs/screenshots/6.jpeg) |
 
-| Resultado | Resultado 2 | Resultado com botão de gerar PDF |
-|------------------|-------------------|-----------|
-| ![](screenshots/4.jpeg) | ![](screenshots/5.jpeg) | ![](screenshots/6.jpeg) |
-
-| Compartilhamento | Compartilhamento |
+| Geração do PDF | Compartilhamento | PDF Final |
 |----------------|------------------|-----------|
-| ![](screenshots/7.jpeg) | ![](screenshots/8.jpeg) |
-
-
+| ![](docs/screenshots/7.jpeg) | ![](docs/screenshots/8.jpeg) | ![](docs/screenshots/9.jpeg) |
 
 ## 🚀 Tecnologias
 
