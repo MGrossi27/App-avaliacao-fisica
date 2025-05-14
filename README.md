@@ -4,7 +4,7 @@ Aplicativo mobile para avaliação física de alunos com geração de relatório
 
 ## 🔥 Funcionalidades
 
-- Avaliação física com 3, 4 ou 7 dobras cutâneas
+- Avaliação física com 3, 4 ou 7 dobras cutânea
 - Entrada opcional de circunferências
 - Cálculo de:
   - Densidade corporal
