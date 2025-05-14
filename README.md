@@ -88,6 +88,21 @@ Tudo isso pensado para funcionar **sem internet**, facilitando o uso em academia
 
 ---
 
+### 🛠️ Estrutura do Projeto
+
+/
+├── app/               # Navegação entre telas
+├── components/        # Componentes reutilizáveis
+├── screens/           # Telas principais (Entrevista, Dobras, Resultado, etc.)
+├── utils/             # Funções auxiliares e cálculo
+├── assets/            # Imagens e logos
+├── README.md
+├── LICENSE
+└── package.json
+
+
+---
+
 ## 🖼️ Design
 
 - ⚫ Background: `#121212`
@@ -109,3 +124,18 @@ git clone https://github.com/MGrossi27/app-avaliacao-fisica.git
 cd app-avaliacao-fisica
 npm install
 npx expo start
+
+---
+
+## 🚫 Licença
+
+Este projeto está protegido por **Creative Commons BY-NC-ND 4.0**.
+
+- ❌ Proibido uso comercial
+- ❌ Proibido copiar, modificar ou redistribuir o código
+- ✅ Permitido uso educacional e em portfólio com citação obrigatória
+
+© 2025 Michael Grossi. Todos os direitos reservados.
+
+[🔗 Ver licença completa](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+
