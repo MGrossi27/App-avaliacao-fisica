@@ -13,7 +13,7 @@ O app permite realizar uma avaliação completa com:
 - Cálculo automático de TMB, NDC, % gordura, massa magra e gorda
 - Geração de relatório em PDF com layout escuro e identidade visual do profissional
 
-Tudo isso pensado para funcionar **sem internet**, facilitando o uso em academias, estúdios ou atendimentos externos.
+Tudo isso pensado parsa funcionar **sem internet**, facilitando o uso em academias, estúdios ou atendimentos externos.
 
 ---
 
