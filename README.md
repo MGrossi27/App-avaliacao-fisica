@@ -36,7 +36,7 @@ Tudo isso pensado parsa funcionar **sem internet**, facilitando o uso em academi
 
 ### 📄 Exemplo de PDF com Circunferências
 
-<img src="screenshots/pdf1.png" width="600"/>
+<img src="screenshots/Pdf1.png" width="600"/>
 
 ### 📄 Exemplo de PDF sem Circunferências
 
