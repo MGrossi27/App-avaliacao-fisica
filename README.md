@@ -7,6 +7,7 @@ Aplicativo mobile desenvolvido com React Native (Expo) para profissionais de edu
 ## 📱 Sobre o Projeto
 
 O app permite realizar uma avaliação completa com:
+- Já está em uso por um profissional local, com otima avaliação do mesmo
 - Dados iniciais do aluno
 - Método de dobras cutâneas (3, 4 ou 7)
 - Circunferências corporais opcionais
