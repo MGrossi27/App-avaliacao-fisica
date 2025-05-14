@@ -34,6 +34,17 @@ Tudo isso pensado parsa funcionar **sem internet**, facilitando o uso em academi
 
 ---
 
+### 📄 Exemplo de PDF com Circunferências
+
+<img src="screenshots/pdf1.jpeg" width="600"/>
+
+### 📄 Exemplo de PDF sem Circunferências
+
+<img src="screenshots/pdf2.jpeg" width="600"/>
+
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - React Native com Expo
