@@ -30,7 +30,6 @@ Tudo isso pensado parsa funcionar **sem internet**, facilitando o uso em academi
   <img src="screenshots/6.jpeg" width="200"/>
   <img src="screenshots/7.jpeg" width="200"/>
   <img src="screenshots/8.jpeg" width="200"/>
-  <img src="screenshots/9.jpeg" width="200"/>
 </div>
 
 ---
