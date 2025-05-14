@@ -1,0 +1,12 @@
+{
+    "expo": {
+      "name": "AvaliacaoApp",
+      "slug": "avaliacao-app",
+      "scheme": "avaliacaoapp",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "jsEngine": "hermes",
+      "platforms": ["ios", "android"],
+      "sdkVersion": "50.0.0"
+    }
+  }
