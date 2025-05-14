@@ -4,7 +4,7 @@ Aplicativo mobile para avaliação física de alunos com geração de relatório
 
 ## 🔥 Funcionalidades
 
-- Avaliação física com 3, 4 ou 7 dobras cutânea
+- Avaliação física com 3, 4 ou 7 dobras cutâneas
 - Entrada opcional de circunferências
 - Cálculo de:
   - Densidade corporal
@@ -17,13 +17,33 @@ Aplicativo mobile para avaliação física de alunos com geração de relatório
 
 ## 📲 Screenshots
 
-| Entrevista Inicial | Escolha de método | Dobras Cutâneas |
-|--------------------|-------------------|------------------|
-| ![](screenshots/1.jpeg) | ![](screenshots/2.jpeg) | ![](screenshots/3.jpeg) |
+<table>
+  <tr>
+    <th>Entrevista Inicial</th>
+    <th>Escolha de Método</th>
+    <th>Dobras Cutâneas</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/1.jpeg" height="500"/></td>
+    <td><img src="screenshots/2.jpeg" height="500"/></td>
+    <td><img src="screenshots/3.jpeg" height="500"/></td>
+  </tr>
+</table>
 
-| Circunferências 1 | Circunferências 2 | Resultado |
-|------------------|-------------------|-----------|
-| ![](screenshots/4.jpeg) | ![](screenshots/5.jpeg) | ![](screenshots/6.jpeg) |
+<br/>
+
+<table>
+  <tr>
+    <th>Circunferências 1</th>
+    <th>Circunferências 2</th>
+    <th>Resultado</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/4.jpeg" height="500"/></td>
+    <td><img src="screenshots/5.jpeg" height="500"/></td>
+    <td><img src="screenshots/6.jpeg" height="500"/></td>
+  </tr>
+</table>
 
 ## 🚀 Tecnologias
 
