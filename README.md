@@ -25,10 +25,6 @@ Aplicativo mobile para avaliação física de alunos com geração de relatório
 |------------------|-------------------|-----------|
 | ![](screenshots/4.jpeg) | ![](screenshots/5.jpeg) | ![](screenshots/6.jpeg) |
 
-| Geração do PDF | Compartilhamento | PDF Final |
-|----------------|------------------|-----------|
-| ![](screenshots/7.jpeg) | ![](screenshots/8.jpeg) | ![](screenshots/9.jpeg) |
-
 ## 🚀 Tecnologias
 
 - React Native (Expo)
