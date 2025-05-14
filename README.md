@@ -89,7 +89,7 @@ Tudo isso pensado para funcionar **sem internet**, facilitando o uso em academia
 ---
 
 ### 🛠️ Estrutura do Projeto
-
+```bash
 /
 ├── app/               # Navegação entre telas
 ├── components/        # Componentes reutilizáveis
@@ -99,7 +99,7 @@ Tudo isso pensado para funcionar **sem internet**, facilitando o uso em academia
 ├── README.md
 ├── LICENSE
 └── package.json
-
+```
 
 ---
 
@@ -123,10 +123,10 @@ Tudo isso pensado para funcionar **sem internet**, facilitando o uso em academia
 git clone https://github.com/MGrossi27/app-avaliacao-fisica.git
 cd app-avaliacao-fisica
 npm install
-npx expo start
+npx expo start 
 
 ---
-
+```
 ## 🚫 Licença
 
 Este projeto está protegido por **Creative Commons BY-NC-ND 4.0**.
